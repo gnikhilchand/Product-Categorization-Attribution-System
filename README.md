@@ -79,8 +79,6 @@ Client-Specific Category Mapping
 ↓
 SQL Storage for Analytics
 
-yaml
-Copy code
 
 ---
 
@@ -118,9 +116,6 @@ Product Categorization & Attribution System/
 ├── main.py
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## How It Works
@@ -155,9 +150,6 @@ product_id	client	final_category
 2	Client_A	Soft Drinks
 3	Client_A	Protein Snacks
 4	Client_A	Tea & Coffee
-
-yaml
-Copy code
 
 ---
 
